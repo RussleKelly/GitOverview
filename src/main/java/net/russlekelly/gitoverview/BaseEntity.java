@@ -10,13 +10,12 @@ public class BaseEntity {
     public Long getId() {
         return id;
     }
-
+nbgvfcdfchvjbknlmjnhbgv
     public void setId(Long id) {
         this.id = id;
     }
 
-lolololololollololol
-
+////i've created this branch to check whether it will get removed from remote brancehs from IDE
 
     @Override
     public String toString() {
