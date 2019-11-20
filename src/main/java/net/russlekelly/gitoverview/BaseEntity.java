@@ -28,3 +28,12 @@ public class BaseEntity {
     }
 }
 
+
+public class testingUpdate {
+
+    public sayingUpdate{
+        System.out.println("Yo! I've been updated");
+    }
+
+
+}
