@@ -32,6 +32,7 @@ public class Person extends BaseEntity{
                 "firstName='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +
                 '}';
+                '}';
     }
 }
 
