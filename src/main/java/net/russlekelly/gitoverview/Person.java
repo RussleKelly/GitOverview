@@ -35,6 +35,7 @@ public class Person extends BaseEntity{
                 '}';
 
                 some info on develop branch
+                second commit on develop branch
     }
 }
 
