@@ -33,6 +33,8 @@ public class Person extends BaseEntity{
                 ", lastName='" + lastName + '\'' +
                 '}';
                 '}';
+
+                some info on develop branch
     }
 }
 
